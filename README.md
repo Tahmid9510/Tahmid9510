@@ -1,6 +1,6 @@
 # Hi, I'm Tahmid Hasan 👋
 
-### Full-Stack Web Developer | CSE Student @ AIUB | ML & NLP Enthusiast
+### Full-Stack Web Developer | ML & NLP Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -9,8 +9,8 @@
 💬 Ask me about **React, Tailwind CSS, TypeScript, PostgreSQL, ML research**
 📫 Reach me at **tmd999510@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/E--Portfolio-4c8c4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-hasan9)
+[![Portfolio](https://img.shields.io/badge/E--Portfolio-4c8c4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tahmid-hasan.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmd999510@gmail.com)
 
 ---
