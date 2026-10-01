@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
-🎓 Studying **Computer Science & Engineering** at American International University-Bangladesh (CGPA 3.93)
+🎓 Studying **Computer Science & Engineering** at American International University-Bangladesh
 🌱 Currently learning **Next.js, NestJS, Machine Learning & NLP**
 💬 Ask me about **React, Tailwind CSS, TypeScript, PostgreSQL, ML research**
 📫 Reach me at **tmd999510@gmail.com**
@@ -17,7 +17,6 @@
 
 ## 🛠️ Languages & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,28 +57,9 @@
 
 ---
 
-## 🏆 Achievements
-
-- 📄 Presented the paper **"Scientific Paper's Domain Prediction Using Classical Machine Learning Models"** at **IEEE QPAIN 2026**
-- 🥇 **5× Dean's List Honors** at AIUB
-- 🎓 Academic Scholarship for excellence at AIUB
-- 🌐 Cisco IT Essentials certified
-
----
-
 ## 🎯 Interests
 
-Software Engineering • Artificial Intelligence • Machine Learning • NLP • Data Science • Quantum Computing • Algorithm Design • Frontend & Backend Development
-
----
-
-## 📊 GitHub Stats
-
-### 🔤 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15)
+Software Engineering • Artificial Intelligence • Machine Learning • NLP • Data Science • Quantum Computing • Frontend & Backend Development
 
 ---
 
