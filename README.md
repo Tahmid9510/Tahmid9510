@@ -45,18 +45,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **AppHub** | App store–style SPA to browse, search, install and manage apps, with live search and rating charts | React, React Router, Tailwind CSS, Recharts, LocalStorage |
-| **WarmPaws** | Winter pet-care platform with authentication, protected service booking and profile management | React (Vite), Firebase Auth, DaisyUI, AOS |
-| **Visualizing Nature** | Interactive seasonal animation (blooming flowers, rain, clouds, sunset) with keyboard controls | C++, OpenGL (GLUT) |
-| **IoT Automatic Plant Watering** | Embedded systems project for automatic watering | Microprocessor & Embedded Systems |
-| **Student Performance Prediction** | ML models predicting math performance using Linear Regression, Decision Tree and Random Forest | R, Data Science |
-
----
-
 ## 🎯 Interests
 
 Software Engineering • Artificial Intelligence • Machine Learning • NLP • Data Science • Quantum Computing • Frontend & Backend Development
