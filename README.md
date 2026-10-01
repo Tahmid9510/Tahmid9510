@@ -1,1 +1,86 @@
-# Tahmid9510-
+# Hi, I'm Tahmid Hasan 👋
+
+### Full-Stack Web Developer | CSE Student @ AIUB | ML & NLP Enthusiast
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+
+🎓 Studying **Computer Science & Engineering** at American International University-Bangladesh (CGPA 3.93)
+🌱 Currently learning **Next.js, NestJS, Machine Learning & NLP**
+💬 Ask me about **React, Tailwind CSS, TypeScript, PostgreSQL, ML research**
+📫 Reach me at **tmd999510@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/E--Portfolio-4c8c4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmd999510@gmail.com)
+
+---
+
+## 🛠️ Languages & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **AppHub** | App store–style SPA to browse, search, install and manage apps, with live search and rating charts | React, React Router, Tailwind CSS, Recharts, LocalStorage |
+| **WarmPaws** | Winter pet-care platform with authentication, protected service booking and profile management | React (Vite), Firebase Auth, DaisyUI, AOS |
+| **Visualizing Nature** | Interactive seasonal animation (blooming flowers, rain, clouds, sunset) with keyboard controls | C++, OpenGL (GLUT) |
+| **IoT Automatic Plant Watering** | Embedded systems project for automatic watering | Microprocessor & Embedded Systems |
+| **Student Performance Prediction** | ML models predicting math performance using Linear Regression, Decision Tree and Random Forest | R, Data Science |
+
+---
+
+## 🏆 Achievements
+
+- 📄 Presented the paper **"Scientific Paper's Domain Prediction Using Classical Machine Learning Models"** at **IEEE QPAIN 2026**
+- 🥇 **5× Dean's List Honors** at AIUB
+- 🎓 Academic Scholarship for excellence at AIUB
+- 🌐 Cisco IT Essentials certified
+
+---
+
+## 🎯 Interests
+
+Software Engineering • Artificial Intelligence • Machine Learning • NLP • Data Science • Quantum Computing • Algorithm Design • Frontend & Backend Development
+
+---
+
+## 📊 GitHub Stats
+
+### 🔤 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15)
+
+---
+
+⭐ *Thanks for visiting my profile!*
