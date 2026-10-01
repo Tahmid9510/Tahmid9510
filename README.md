@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Developer | ML & NLP Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Tahmid9510&label=Profile%20Views&color=0e75b6&style=flat)
 
 🎓 Studying **Computer Science & Engineering** at American International University-Bangladesh
 🌱 Currently learning **Next.js, NestJS, Machine Learning & NLP**
